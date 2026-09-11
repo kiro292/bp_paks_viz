@@ -1,2 +1,2 @@
-Budapest;NA
-Paks;NA
+Budapest;2026.09.11. 10:00
+Paks;2026.09.11. 10:00
